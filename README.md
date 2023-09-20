@@ -1,16 +1,21 @@
-### Hi there 👋
+# Merhaba, Ben Bilal Karabulut 👋
 
-<!--
-**bizzattaha/bizzattaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben İstinye Üniversitesi Bilgisayar Programcılığı öğrencisiyim ve burada kendi projelerimi ve eğitim gördüğüm staj yerlerinde çalıştığım projeleri paylaşıyorum. 
 
-Here are some ideas to get you started:
+## Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 İstinye Üniversitesi'nde Bilgisayar Programcılığı okuyorum.
+- 💼 Staj yaptığım yerlerdeki projeler ve çalışmaları burada paylaşıyorum.
+- 🌱 Sürekli kendimi geliştirmek ve yeni teknolojilere hakim olmak için çaba sarf ediyorum.
+
+## İletişim
+
+Benimle aşağıdaki platformlardan iletişime geçebilirsiniz:
+
+- GitHub: [[GitHub/bizzattaha](GitHub-linki)]
+- LinkedIn: [[LinkedIn/BilalKarabulut](https://www.linkedin.com/in/bilalkarabulut/)]
+- E-posta: [bizzattaha@gmail.com](mailto:bizzattaha@gmail.com)]
+
+## Teşekkürler
+
+Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla projemi incelemek ve iletişime geçmek için lütfen yukarıdaki bilgileri kullanın.
