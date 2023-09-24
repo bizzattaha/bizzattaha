@@ -20,6 +20,4 @@ Benimle aşağıdaki platformlardan iletişime geçebilirsiniz:
 
 Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla projemi incelemek ve iletişime geçmek için lütfen yukarıdaki bilgileri kullanın.
 
-<p><img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=bizzattaha&show_icons=true&locale=en&layout=compact" alt = "bizzattaha" /> </p>
-
-<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=bizzattaha&" alt = "bizzattaha" /></p>
+<p><img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=bizzattaha&show_icons=true&locale=en&layout=compact" alt = "bizzattaha" /> </p> <p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=bizzattaha&" alt = "bizzattaha" /></p>
