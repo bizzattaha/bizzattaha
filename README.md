@@ -1,6 +1,6 @@
 # Merhaba, Ben Bilal Karabulut 👋
 
-- 📚 İstinye Üniversitesi'nde Bilgisayar Programcılığı okuyorum.
+- 📚 İstinye Üniversitesi'nde Bilgisayar Programcılığı mezunu.
 - 💼 Staj yaptığım yerlerdeki projeler ve çalışmaları burada paylaşıyorum.
 - 🌱 Sürekli kendimi geliştirmek ve yeni teknolojilere hakim olmak için çaba sarf ediyorum.
 ## İletişim
